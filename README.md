@@ -4,7 +4,7 @@ Hi my name is Jaheim Brooks Murphy
 Computer Science Student
 ------------------------
 
-Welcome to my page, I am currently a first year computer science student. I originally come from a business background, however I made the switch to computer science late 2025. My main interest is cyber security specifically around data protection and data management.
+Welcome to my page, I am currently a first year computer science student. My career goal is to secure a position within cyber security where I can manage and protect data. I am eager to expand my knowledge through hands on experience, continuous learning and new challenges. 
 
 * Based in the United Kingdom
 * Contact me at [jaheimbm28@gmail.com](mailto:jaheimbm28@gmail.com)
