@@ -4,7 +4,7 @@ Hi My name is Jaheim Brooks Murphy
 Computer Science Student
 ------------------------
 
-Welcome to my page, I am currently a first year computer science student. My career goal is to secure a position in cyber security where I can manage and protect data. I am eager to expand my knowledge through hands on experiences, continuous learning, and new challenges.
+Welcome to my page, I am currently a cyber security student.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [jaheimbm28@gmail.com](mailto:jaheimbm28@gmail.com)
